@@ -6,4 +6,6 @@ class HttpConfig {
   //end points
   static String getRiddles = "/v1/riddles";
   static String getEmoji = "/v1/emoji";
+  static String getJokes = "/v1/jokes";
+  static String getQuotes = "/v1/quotes";
 }
