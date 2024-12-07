@@ -1,6 +1,6 @@
-# api_app
+# Riddle Application
 
-A new Flutter project.
+A new Flutter application where we can view multiple riddles, jokes and quotes .
 
 ## Getting Started
 
